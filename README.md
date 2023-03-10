@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Homework 1
+https://tomaszblock.github.io/goit-markup-hw-01/
